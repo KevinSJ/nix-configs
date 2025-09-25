@@ -47,6 +47,10 @@
     xz
     zip
     unzip
+    tmux
+
+    python3
+    perl
 
     nix-info
   ];
@@ -97,6 +101,8 @@
 	   bc
 	   android-tools
 	   which
+	   tmux
+	   pandoc
 	   nerdfonts
 	   zsh
 	];
